@@ -1,5 +1,3 @@
-, 
-I am also a quick learner and can adapt to new technology within a very short time.
 ### Hello,
 I am a curious Full-Stack developer with robust practical knowledge in JavaScript, ES6, React.js, Node.js,
 MongoDB, PHP, MySQL as well as UI/UX tools like Photoshop, Illustrator and Figma & modern design concepts.</br>
