@@ -1,9 +1,11 @@
+, 
+I am also a quick learner and can adapt to new technology within a very short time.
+### Hello,
+I am a curious Full-Stack developer with robust practical knowledge in JavaScript, ES6, React.js, Node.js,
+MongoDB, PHP, MySQL as well as UI/UX tools like Photoshop, Illustrator and Figma & modern design concepts.</br>
 
-### Hi there,
-This is <b>MD Fahad Hossain</b>. A full stack web developer but mostly works on Backend.</br>
-Skills: <b>Django</b> / <b>Django REST FrameWork</b> /<b> Django Channels</b> /<b>  Docker</b> /<b>  Django Celery </b>/<b>  Git and Github </b> /<b> Folium Map </b>/<b> HTMX </b> /<b>  Youtube API </b> /<b>  Django AllAuth </b>/<b> Frappe Framework </b>  /<b>  PostgreSql </b>/<b>  SQL </b>  /<b>  Python Selenium </b> / <b> ERPNext </b> / <b> Web Scrapping </b> / <b> Vue.js </b> /  <b> React.js </b> / <b> Bootstrap </b>  /<b> HTML5 </b> /<b>  CSS </b>
 - 🔭 I’m currently working on Web Development.  
-- 🌱 I’m currently learning Django Advanced Topics. 
+- 🌱 I’m currently learning React Advanced Topics. 
 - 💬 Ask me about web application development. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/engrajibulhasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/engrajibulhasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/rayhan.hasan1)  
