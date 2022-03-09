@@ -10,7 +10,7 @@ MongoDB, PHP, MySQL as well as UI/UX tools like Photoshop, Illustrator and Figma
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=engrajibulhasan)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrajibulhasan)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrajibulhasan)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=engrajibulhasan&show_icons=true&count_private=true)  
 
