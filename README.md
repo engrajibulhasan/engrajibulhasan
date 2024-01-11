@@ -1,10 +1,11 @@
 ### Hello,
-I am a curious Full-Stack developer with robust practical knowledge in JavaScript, ES6, React.js, Node.js,
-MongoDB, PHP, MySQL as well as UI/UX tools like Photoshop, Illustrator and Figma & modern design concepts.</br>
+I am highly motivated and progress-focused Full Stack Developer with fast learning and problem-solving capabilities.
+I love to play with Javascript.
+</br>
 
-- 🔭 I’m currently working on Web Development.  
-- 🌱 I’m currently learning React Advanced Topics. 
-- 💬 Ask me about web application development. 
+- 🔭 **User-Centric Design:** Craft interfaces prioritizing user experience for enhanced engagement and satisfaction.  
+- 🔭 **Tech Proficiency:** Expertise in TypeScript, React.js, Next.js, Python, Express.js, Mongodb ensuring cutting-edge, scalable solutions. 
+- 🔭 **Collaborative Problem Solver:** Proven teamwork, adept at overcoming challenges for successful project delivery.. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/engrajibulhasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/rajibul-hasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/rayhan.hasan1)  
 
