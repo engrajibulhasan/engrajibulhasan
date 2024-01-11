@@ -8,7 +8,7 @@ I love to play with Javascript.
 - 🔭 **Collaborative Problem Solver:** Proven teamwork, adept at overcoming challenges for successful project delivery.. 
 </br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/engrajibulhasan) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/rajibul-hasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/rayhan.hasan1)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/engrajibulhasan) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/rajibul-hasan/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='35'>](https://www.facebook.com/rayhan.hasan1)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=engrajibulhasan)](https://github.com/ryo-ma/github-profile-trophy)
 
