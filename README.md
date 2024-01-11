@@ -10,11 +10,11 @@ I love to play with Javascript.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/engrajibulhasan) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/rajibul-hasan/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='35'>](https://www.facebook.com/rayhan.hasan1)  
 
+</br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=engrajibulhasan)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrajibulhasan)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=engrajibulhasan&show_icons=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrajibulhasan) &nbsp; &nbsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=engrajibulhasan&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=engrajibulhasan)  
 
