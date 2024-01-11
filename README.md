@@ -6,8 +6,9 @@ I love to play with Javascript.
 - 🔭 **User-Centric Design:** Craft interfaces prioritizing user experience for enhanced engagement and satisfaction.  
 - 🔭 **Tech Proficiency:** Expertise in TypeScript, React.js, Next.js, Python, Express.js, Mongodb ensuring cutting-edge, scalable solutions. 
 - 🔭 **Collaborative Problem Solver:** Proven teamwork, adept at overcoming challenges for successful project delivery.. 
+</br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/engrajibulhasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/rajibul-hasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/rayhan.hasan1)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/engrajibulhasan) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/rajibul-hasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/rayhan.hasan1)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=engrajibulhasan)](https://github.com/ryo-ma/github-profile-trophy)
 
