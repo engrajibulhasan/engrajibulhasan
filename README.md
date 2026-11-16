@@ -46,10 +46,6 @@
 
 I'm **MD. Rajibul Hasan** — a **Senior Software Engineer** from Dhaka, Bangladesh 🇧🇩, full-stack by trade. For the last **10+ years** I've been turning ideas into **scalable, fast, real-world applications**.
 
-These days I'm on a **cross-border team** shipping enterprise software for global clients, half of us in California. Odd-hour standups, short sprints, small releases — **agile** that actually works, not agile on a slide.
-
-What I'm best at is **performance**. Slow query? I'll profile it. Chart choking on a few thousand rows? I'll find the nested loop nobody noticed — that one made a dashboard **60% faster**. I also take the jobs people quietly avoid: **Keycloak SSO, RBAC, MFA**, heavy data grids, and dragging a legacy AngularJS app into Next.js.
-
 ```yaml
 Name:        MD. Rajibul Hasan
 Role:        Senior Software Engineer
@@ -85,24 +81,6 @@ Open To:     Remote & Onsite Senior Software Engineer roles 🌍
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
-
-### Core Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind&theme=dark&perline=8"/>
-
-### UI, Styling & Design
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,sass,html,css,figma&theme=dark&perline=8"/>
-
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,postgres,postman&theme=dark&perline=8"/>
-
-### Testing, Tooling & DevOps
-<img src="https://skillicons.dev/icons?i=jest,docker,git,github,vscode,vercel&theme=dark&perline=8"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -180,9 +158,7 @@ Open To:     Remote & Onsite Senior Software Engineer roles 🌍
 
 - 🚀 **SaaS product development** — building multi-tenant products end to end
 - 🏗️ **System design** — scalability, data modelling and clear service boundaries
-- 📐 **Industry best practices** — clean architecture, testing discipline, code review
 - 🧠 **AI engineering** — LLMs, RAG and agentic systems, backed by vector search
-- 🌍 Open to **remote Senior Software Engineer roles** worldwide
 
 <div align="center">
 
