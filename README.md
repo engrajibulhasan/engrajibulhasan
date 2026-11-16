@@ -210,9 +210,9 @@ Open To:     Remote & Onsite Senior Software Engineer roles 🌍
 
 ---
 
-## ✍️ Writing
+##  Writing
 
-I write about React, Next.js, performance and frontend architecture on Medium.
+I write on Medium.
 
 <div align="center">
   <a href="https://medium.com/@engrajibulhasan">
@@ -222,13 +222,9 @@ I write about React, Next.js, performance and frontend architecture on Medium.
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
-
-I'm **open to remote and onsite Senior Software Engineer roles**, and always happy to talk about
-**React, Next.js, performance tuning and enterprise application architecture**.
-
 <a href="mailto:engrajibulhasan@gmail.com">
   <img src="https://img.shields.io/badge/Say%20Hi!-engrajibulhasan%40gmail.com-61DAFB?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
 </a>
