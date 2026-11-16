@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" fill="none" role="img" aria-label="MD. Rajibul Hasan - Senior Software Engineer - TypeScript, Next.js, Express.js, MongoDB, MySQL">
+  <defs>
+    <linearGradient id="accentBar" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="25%" stop-color="#61DAFB"/>
+      <stop offset="55%" stop-color="#58A6FF"/>
+      <stop offset="80%" stop-color="#61DAFB"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#61DAFB" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#61DAFB" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#61DAFB" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="50%">
+      <stop offset="0%" stop-color="#61DAFB" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#61DAFB" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#ffffff" fill-opacity="0.05"/>
+    </pattern>
+    <clipPath id="card">
+      <rect x="1" y="1" width="998" height="278" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="280" fill="#0d1117"/>
+    <rect width="1000" height="280" fill="url(#dots)"/>
+    <ellipse cx="500" cy="118" rx="470" ry="150" fill="url(#glow)">
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="6s" repeatCount="indefinite"/>
+    </ellipse>
+    <rect width="1000" height="4" fill="url(#accentBar)"/>
+  </g>
+  <rect x="1" y="1" width="998" height="278" rx="16" fill="none" stroke="#30363d" stroke-width="1.5"/>
+
+  <g stroke="#61DAFB" stroke-opacity="0.45" stroke-width="1.5" fill="none" stroke-linecap="round">
+    <path d="M22 54 V34 H42"/>
+    <path d="M978 54 V34 H958"/>
+    <path d="M22 226 V246 H42"/>
+    <path d="M978 226 V246 H958"/>
+  </g>
+
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="500" y="66" font-size="13" font-weight="600" letter-spacing="4.5" fill="#61DAFB">SENIOR SOFTWARE ENGINEER</text>
+    <text x="500" y="128" font-size="54" font-weight="800" letter-spacing="2" fill="#E6EDF3">MD. RAJIBUL HASAN</text>
+  </g>
+
+  <rect x="430" y="150" width="140" height="2" rx="1" fill="url(#rule)"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" text-anchor="middle">
+    <text x="500" y="186" font-size="16" fill="#8B949E">TypeScript &#183; Next.js &#183; Express.js &#183; MongoDB &#183; MySQL</text>
+  </g>
+
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle" font-size="12" font-weight="600" letter-spacing="1.2">
+    <rect x="269" y="208" width="180" height="30" rx="15" fill="#61DAFB" fill-opacity="0.10" stroke="#61DAFB" stroke-opacity="0.35"/>
+    <text x="359" y="227.5" fill="#79C0FF">10+ YEARS EXPERIENCE</text>
+
+    <rect x="465" y="208" width="110" height="30" rx="15" fill="#61DAFB" fill-opacity="0.10" stroke="#61DAFB" stroke-opacity="0.35"/>
+    <text x="520" y="227.5" fill="#79C0FF">SSO &amp; MFA</text>
+
+    <rect x="591" y="208" width="140" height="30" rx="15" fill="#3FB950" fill-opacity="0.12" stroke="#3FB950" stroke-opacity="0.40"/>
+    <text x="661" y="227.5" fill="#56D364">OPEN TO REMOTE</text>
+  </g>
+</svg>
