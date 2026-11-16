@@ -44,7 +44,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="280"/>
 
-I'm **MD. Rajibul Hasan** — a **Senior Software Engineer** from Dhaka, Bangladesh 🇧🇩, full-stack by trade. For the last **10+ years** I've been turning ideas into **scalable, fast, real-world applications**.
+I'm a **Senior Software Engineer** from Dhaka, Bangladesh 🇧🇩, full-stack by trade. For the last **10+ years** I've been turning ideas into **scalable, fast, real-world applications**.
 
 ```yaml
 Name:        MD. Rajibul Hasan
