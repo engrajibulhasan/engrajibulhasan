@@ -44,11 +44,11 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="280"/>
 
-I'm **MD. Rajibul Hasan**, a **Senior Software Engineer** from Dhaka, Bangladesh 🇧🇩 with **10+ years of full-stack web development** and **5+ years deep in React & Next.js**.
+Hi, I'm **MD. Rajibul Hasan** — a **Senior Software Engineer** in Dhaka, Bangladesh 🇧🇩. **10+ years** building for the web, the last **5+ deep in React & Next.js**.
 
-I work in a **cross-border engineering team**, building enterprise software for global clients alongside colleagues in California, USA. That means **agile delivery** in practice, not on paper — daily standups across time zones, short sprints, and shipping in increments small enough that nothing already in production breaks.
+These days I'm on a **cross-border team** shipping enterprise software for global clients, half of us in California. Odd-hour standups, short sprints, small releases — **agile** that actually works, not agile on a slide.
 
-Where I add the most value is **performance**. I profile slow queries, strip out wasteful iteration, and tune heavy data visualisations until they render fast enough to actually be useful — on one dashboard that meant cutting render time by **over 60%**. I also handle the parts teams tend to avoid: **Keycloak SSO, RBAC and MFA**, enterprise data grids, and bringing a legacy AngularJS codebase over to Next.js.
+What I'm best at is **performance**. Slow query? I'll profile it. Chart choking on a few thousand rows? I'll find the nested loop nobody noticed — that one made a dashboard **60% faster**. I also take the jobs people quietly avoid: **Keycloak SSO, RBAC, MFA**, heavy data grids, and dragging a legacy AngularJS app into Next.js.
 
 ```yaml
 Name:        MD. Rajibul Hasan
@@ -178,11 +178,29 @@ Open To:     Remote & Onsite Senior Software Engineer roles 🌍
 
 ## 📌 Current Focus
 
-- 🔭 Building **enterprise solutions for global clients** in a cross-border agile team
-- 🧠 Going deeper on **frontend system design, performance budgets and Core Web Vitals**
-- 🧪 Raising test coverage with **Jest** and **React Testing Library**
-- 🤖 Building **AI-assisted development** workflows that keep code quality high
+- 🚀 **SaaS product development** — building multi-tenant products end to end
+- 🏗️ **System design** — scalability, data modelling and clear service boundaries
+- 📐 **Industry best practices** — clean architecture, testing discipline, code review
+- 🧠 **AI engineering** — LLMs, RAG and agentic systems, backed by vector search
 - 🌍 Open to **remote Senior Software Engineer roles** worldwide
+
+<div align="center">
+
+<br/>
+
+**🤖 AI ENGINEERING** · *going deep on these right now*
+
+![LLM](https://img.shields.io/badge/LLM-7C3AED?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=for-the-badge&logo=langchain&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-7C3AED?style=for-the-badge)
+![AI Guardrails](https://img.shields.io/badge/AI_Guardrails-7C3AED?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-7C3AED?style=for-the-badge&logo=qdrant&logoColor=white)
+
+</div>
 
 ---
 
@@ -254,6 +272,7 @@ I'm **open to remote and onsite Senior Software Engineer roles**, and always hap
     <b>Senior Software Engineer</b> · Senior Frontend Engineer · React Developer · Next.js Developer · TypeScript Engineer ·
     Redux Toolkit · RTK Query · Tailwind CSS · Keycloak SSO · RBAC · MFA · AG Grid Enterprise ·
     AngularJS to Next.js Migration · Node.js · Express.js · PHP · MongoDB · MySQL · PostgreSQL · Docker ·
+    SaaS Product Development · System Design · AI Engineering · LLM · RAG · LangChain · Vector Database ·
     Remote Software Engineer · Full Stack Developer · Dhaka, Bangladesh 🇧🇩
   </sub>
 </div>
