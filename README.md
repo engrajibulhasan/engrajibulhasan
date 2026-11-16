@@ -44,7 +44,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="280"/>
 
-Hi, I'm **MD. Rajibul Hasan** — a **Senior Software Engineer** in Dhaka, Bangladesh 🇧🇩. **10+ years** building for the web, the last **5+ deep in React & Next.js**.
+I'm **MD. Rajibul Hasan** — a **Senior Software Engineer** from Dhaka, Bangladesh 🇧🇩, full-stack by trade. For the last **10+ years** I've been turning ideas into **scalable, fast, real-world applications**.
 
 These days I'm on a **cross-border team** shipping enterprise software for global clients, half of us in California. Odd-hour standups, short sprints, small releases — **agile** that actually works, not agile on a slide.
 
