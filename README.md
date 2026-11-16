@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%7C+10%2B+Years;TypeScript+%C2%B7+Next.js+%C2%B7+Express.js+%C2%B7+MongoDB+%C2%B7+MySQL;Legacy+AngularJS+%E2%86%92+Next.js+Migration+Specialist;Keycloak+SSO+%C2%B7+RBAC+%C2%B7+MFA+%C2%B7+Enterprise+Data+Grids;Open+to+Remote+Roles+Worldwide+%F0%9F%8C%8D"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%7C+10%2B+Years;TypeScript+%C2%B7+Next.js+%C2%B7+Express.js+%C2%B7+MongoDB+%C2%B7+MySQL;Cross-Border+Agile+Team+%C2%B7+Global+Clients;Performance+Tuning+%C2%B7+SSO+%C2%B7+RBAC+%C2%B7+MFA;Open+to+Remote+Roles+Worldwide+%F0%9F%8C%8D"/>
 </div>
 
 <br/>
@@ -46,15 +46,18 @@
 
 I'm **MD. Rajibul Hasan**, a **Senior Software Engineer** from Dhaka, Bangladesh 🇧🇩 with **10+ years of full-stack web development** and **5+ years deep in React & Next.js**.
 
-I specialise in the work most teams dread: **migrating legacy AngularJS applications to modern Next.js architectures** without breaking complex authentication flows (**Keycloak SSO, RBAC, MFA**) or enterprise data tooling. I currently work daily with a **cross-functional remote team in California, USA**.
+I work in a **cross-border engineering team**, building enterprise software for global clients alongside colleagues in California, USA. That means **agile delivery** in practice, not on paper — daily standups across time zones, short sprints, and shipping in increments small enough that nothing already in production breaks.
+
+Where I add the most value is **performance**. I profile slow queries, strip out wasteful iteration, and tune heavy data visualisations until they render fast enough to actually be useful — on one dashboard that meant cutting render time by **over 60%**. I also handle the parts teams tend to avoid: **Keycloak SSO, RBAC and MFA**, enterprise data grids, and bringing a legacy AngularJS codebase over to Next.js.
 
 ```yaml
 Name:        MD. Rajibul Hasan
 Role:        Senior Software Engineer
 Location:    Dhaka, Bangladesh 🇧🇩  (UTC+6)
 Experience:  10+ years full stack · 5+ years React & Next.js
-Specialty:   AngularJS → Next.js Migration · Keycloak SSO · RBAC
-Currently:   Leading frontend migration at Penta Global Limited
+Specialty:   Motivated self-learner · Performance optimisation
+Currently:   Building enterprise solutions for global clients
+Team:        Cross-border · Agile · Fully remote
 Ask Me About: TypeScript · Next.js · Express.js · MongoDB · MySQL
 Languages:   Bengali (Native) · English (Fluent)
 Open To:     Remote & Onsite Senior Software Engineer roles 🌍
@@ -70,12 +73,12 @@ Open To:     Remote & Onsite Senior Software Engineer roles 🌍
 
 | | |
 |---|---|
-| 🔄 **Legacy Migration** | Led AngularJS → Next.js migrations using the **Strangler Fig pattern**, TypeScript, Redux Toolkit and RTK Query — shipping incrementally with zero downtime. |
-| 🔐 **Enterprise Auth** | **Keycloak** SSO, role-based access control (RBAC) and multi-factor authentication (MFA) wired into Next.js app and middleware layers. |
-| ⚡ **Performance** | Cut data-visualisation render time by **60%+** by eliminating nested iterations and tuning GoJS rendering. |
-| 📊 **Data at Scale** | **AG Grid Enterprise** data grids with custom export pipelines and permission-gated views; real-time charts over **WebSockets**. |
-| 👥 **Team Leadership** | Led and mentored frontend engineers across microservices projects, partnering with UX, Backend and DevOps. |
-| 🤖 **AI-Assisted Dev** | Integrated **Claude Code** into the migration workflow to accelerate refactoring without compromising code quality. |
+| ⚡ **Performance** | Query optimisation and render profiling — cut data-visualisation time by **60%+** by removing nested iteration and tuning GoJS. |
+| 🌍 **Cross-Border Delivery** | Agile delivery with a distributed US team: standups across time zones, short sprints, incremental releases. |
+| 🔐 **Enterprise Auth** | **Keycloak** SSO, role-based access control (RBAC) and multi-factor authentication (MFA) across Next.js app and middleware layers. |
+| 📊 **Data at Scale** | **AG Grid Enterprise** grids with custom export pipelines and permission-gated views; live charts over **WebSockets**. |
+| 👥 **Team Leadership** | Led and mentored engineers across microservices projects, partnering with UX, Backend and DevOps. |
+| 🤖 **AI-Assisted Dev** | Integrated **Claude Code** into day-to-day refactoring without compromising code quality. |
 
 </div>
 
@@ -139,21 +142,20 @@ Open To:     Remote & Onsite Senior Software Engineer roles 🌍
 
 ## 🚀 Featured Projects
 
-> My production work lives in **private enterprise repositories**. I'm currently building a set of public demo projects that showcase the same patterns — repos and live previews land here as each one ships.
+> 🚧 **Coming soon.** Placeholder content below — real repos and live previews replace it as each project ships.
 
 <div align="center">
 
-| Project | What It Demonstrates | Tech Stack | Status |
-|---|---|---|---|
-| 🔐 **Next.js Keycloak SSO Starter** | Production auth: SSO, RBAC role gating, MFA, refresh-token rotation | `Next.js` `TypeScript` `Keycloak` | ![Coming Soon](https://img.shields.io/badge/Coming_Soon-61DAFB?style=flat-square&labelColor=30363D) |
-| 📊 **Enterprise Data Grid Lab** | AG Grid Enterprise, custom export pipelines, permission-gated columns | `React` `AG Grid` `RTK Query` | ![Coming Soon](https://img.shields.io/badge/Coming_Soon-61DAFB?style=flat-square&labelColor=30363D) |
-| 🔄 **AngularJS → Next.js Migration Kit** | Strangler Fig migration, route-by-route cutover, shared auth session | `Next.js` `AngularJS` `Docker` | ![Coming Soon](https://img.shields.io/badge/Coming_Soon-61DAFB?style=flat-square&labelColor=30363D) |
-| 📡 **Realtime Analytics Dashboard** | Live WebSocket streams rendered with ApexCharts, GoJS and Leaflet | `Next.js` `Socket.IO` `ApexCharts` | ![Coming Soon](https://img.shields.io/badge/Coming_Soon-61DAFB?style=flat-square&labelColor=30363D) |
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🧩 **Lorem Ipsum Dolor** | Sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. | `Next.js` `TypeScript` |
+| 🔮 **Consectetur Adipiscing** | Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. | `React` `Express.js` |
+| ⚙️ **Tempor Incididunt** | Duis aute irure dolor in reprehenderit in voluptate velit esse. | `Node.js` `MongoDB` |
 
 <br/>
 
-![Demo Repo](https://img.shields.io/badge/Demo_Repo-coming_soon-30363D?style=for-the-badge&logo=github&logoColor=8B949E)
-![Demo Preview](https://img.shields.io/badge/Demo_Preview-coming_soon-30363D?style=for-the-badge&logo=vercel&logoColor=8B949E)
+![Demo Repo](https://img.shields.io/badge/Demo_Repo-30363D?style=for-the-badge&logo=github&logoColor=8B949E)
+![Demo Preview](https://img.shields.io/badge/Demo_Preview-30363D?style=for-the-badge&logo=vercel&logoColor=8B949E)
 
 </div>
 
@@ -176,7 +178,7 @@ Open To:     Remote & Onsite Senior Software Engineer roles 🌍
 
 ## 📌 Current Focus
 
-- 🔭 Leading **legacy AngularJS → Next.js migrations** in a microservices environment
+- 🔭 Building **enterprise solutions for global clients** in a cross-border agile team
 - 🧠 Going deeper on **frontend system design, performance budgets and Core Web Vitals**
 - 🧪 Raising test coverage with **Jest** and **React Testing Library**
 - 🤖 Building **AI-assisted development** workflows that keep code quality high
@@ -216,7 +218,7 @@ Open To:     Remote & Onsite Senior Software Engineer roles 🌍
 
 ## ✍️ Writing
 
-I write about React, Next.js, migration strategy and frontend architecture on Medium.
+I write about React, Next.js, performance and frontend architecture on Medium.
 
 <div align="center">
   <a href="https://medium.com/@engrajibulhasan">
@@ -231,7 +233,7 @@ I write about React, Next.js, migration strategy and frontend architecture on Me
 <div align="center">
 
 I'm **open to remote and onsite Senior Software Engineer roles**, and always happy to talk about
-**React, Next.js, legacy migrations and enterprise frontend architecture**.
+**React, Next.js, performance tuning and enterprise application architecture**.
 
 <a href="mailto:engrajibulhasan@gmail.com">
   <img src="https://img.shields.io/badge/Say%20Hi!-engrajibulhasan%40gmail.com-61DAFB?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
