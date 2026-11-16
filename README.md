@@ -7,7 +7,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%7C+10%2B+Years;TypeScript+%C2%B7+Next.js+%C2%B7+Express.js+%C2%B7+MongoDB+%C2%B7+MySQL;Cross-Border+Agile+Team+%C2%B7+Global+Clients;Performance+Tuning+%C2%B7+SSO+%C2%B7+RBAC+%C2%B7+MFA;Open+to+Remote+Roles+Worldwide+%F0%9F%8C%8D"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%7C+10%2B+Years;TypeScript+%C2%B7+Next.js+%C2%B7+Express.js+%C2%B7+MongoDB+%C2%B7+MySQL;Cross-Border+Agile+Team+%C2%B7+Global+Clients;Performance+Tuning+%C2%B7+SSO+%C2%B7+RBAC+%C2%B7+MFA;Open+to+Remote+Roles+Worldwide+%F0%9F%8C%8D">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=087EA4&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%7C+10%2B+Years;TypeScript+%C2%B7+Next.js+%C2%B7+Express.js+%C2%B7+MongoDB+%C2%B7+MySQL;Cross-Border+Agile+Team+%C2%B7+Global+Clients;Performance+Tuning+%C2%B7+SSO+%C2%B7+RBAC+%C2%B7+MFA;Open+to+Remote+Roles+Worldwide+%F0%9F%8C%8D">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=087EA4&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%7C+10%2B+Years;TypeScript+%C2%B7+Next.js+%C2%B7+Express.js+%C2%B7+MongoDB+%C2%B7+MySQL;Cross-Border+Agile+Team+%C2%B7+Global+Clients;Performance+Tuning+%C2%B7+SSO+%C2%B7+RBAC+%C2%B7+MFA;Open+to+Remote+Roles+Worldwide+%F0%9F%8C%8D" alt="Senior Software Engineer, 10+ years — TypeScript, Next.js, Express.js, MongoDB, MySQL — cross-border agile team, performance tuning, SSO/RBAC/MFA, open to remote roles"/>
+  </picture>
 </div>
 
 <br/>
